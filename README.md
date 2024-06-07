@@ -16,7 +16,7 @@ https://wokwi.com/projects/399844002451478529
 2. 2x LEDs (um vermelho e um azul)
 3. 3x Resistores, 1x de 4.5KΩ e 2x de 220Ω
 4. Tela LCD (I2C)
-5. Conectores macho / fêmea e macho / macho
+5. Conectores macho / fêmea e macho 
 6. Buzzer
 
 ## Conceito do projeto / seu funcionamento
