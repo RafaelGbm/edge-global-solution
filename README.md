@@ -31,6 +31,12 @@ de varias maneiras, incluindo:
 
 Ao monitorar a temperatura da água, este projeto pode ajudar a detectar e prever mudanças e anomalias que podem indicar problemas ambientais.
 
+Este projeto monitora a temperatura da água em tempo real usando um sensor de temperatura DS18B20 e exibe o valor em um display LCD 16x2 (I2C), com um LED vermelho 
+indicando temperaturas iguais ou superiores a 21.5°C e um LED azul para temperaturas abaixo de 21.5°C. Se a temperatura atingir ou exceder 21.5°C, um buzzer é 
+ativado três vezes para fornecer um alerta sonoro. Para utilizar o projeto, conecte os componentes de acordo com o esquema fornecido e alimente o Arduino Uno. 
+O sistema automaticamente monitorará e exibirá a temperatura, alertando visualmente e sonoramente se a temperatura for alta demais, garantindo um controle eficaz
+da temperatura dos oceanos.
+
 
 ### 📽️ Reprodução visual:
 
