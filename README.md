@@ -2,16 +2,16 @@
 
 # Projeto de medição da temperatura da água dos oceanos
 
-## Equipe
+## 👨‍💼 Equipe
 
 Guilherme Oliveira, RM 555180 <br>
 Rafael Gaspar, RM 557228 <br> 
 Vinicius Monteiro, RM 555088 <br>
  
-## Link da simulação em Wokwi
+## 🔗 Link da simulação em Wokwi
 https://wokwi.com/projects/399844002451478529
 
-## Dependências:
+## 🔧 Dependências:
 1. Sensor de temperatura (DS18B20)
 2. 2x LEDs (um vermelho e um azul)
 3. 3x Resistores, 1x de 4.5KΩ e 2x de 220Ω
@@ -19,7 +19,7 @@ https://wokwi.com/projects/399844002451478529
 5. Conectores macho / fêmea e macho 
 6. Buzzer
 
-## Conceito do projeto / seu funcionamento
+## ⚙️ Conceito do projeto / seu funcionamento
 
 Este projeto pode ser adaptado para várias aplicações ambientais que beneficiam os oceanos e corpos d'água em geral. Um dos benefícios é o monitoramento
 da temperatura da água. A temperatura da agua é um fator crítico na saúde dos ecosistemas aquáticos. Alterações na temperatura podem afetar a vida marinha 
@@ -32,13 +32,13 @@ de varias maneiras, incluindo:
 Ao monitorar a temperatura da água, este projeto pode ajudar a detectar e prever mudanças e anomalias que podem indicar problemas ambientais.
 
 
-### Reprodução visual:
+### 📽️ Reprodução visual:
 
 ![image](/img/Captura%20de%20tela%202024-06-06%20163507.png)
 ![image](/img/Captura%20de%20tela%202024-06-06%20163649.png)
 
 
-### Código utilizado:
+### 👨‍💻 Código utilizado:
 
 ```C++
 #include <Wire.h>
